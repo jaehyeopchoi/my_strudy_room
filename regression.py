@@ -24,3 +24,4 @@ with tf.Session() as sess:
     if((step %20) ==0):
       print('step:',step,'cost:',cost_val,'W:',sess.run(W),'b:',sess.run(b))
 
+#테스트중입니다
