@@ -1,6 +1,6 @@
 # my_strudy_room
 
-저만의 **studyroom** **wiki문서**입니다.
+저만의 **studyroom**입니다.
 
 아직 배우는 중이라 틀린부분도 많고 주관이 많이 들어가 있을 수 있습니다.
 
