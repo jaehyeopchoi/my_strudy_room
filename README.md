@@ -4,7 +4,7 @@
 
 아직 배우는 중이라 틀린부분도 많고 주관이 많이 들어가 있을 수 있습니다.
 
-제가 공부할 wiki의 주제는 **Machine learning, deep learning**입니다.
+제가 공부할 wiki의 주제는 **deep learning**입니다.
 
 ***
 
@@ -13,3 +13,4 @@
 * [Linear regression](https://github.com/jaehyeopchoi/my_strudy_room/wiki/Linear-regression)
 
   * [code분석](https://github.com/jaehyeopchoi/my_strudy_room/wiki/Linear-regression_code%EB%B6%84%EC%84%9D)
+* [CNN](https://github.com/jaehyeopchoi/my_strudy_room/wiki/CNN)
