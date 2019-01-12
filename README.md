@@ -13,4 +13,7 @@
 * [Linear regression](https://github.com/jaehyeopchoi/my_strudy_room/wiki/Linear-regression)
 
   * [code분석](https://github.com/jaehyeopchoi/my_strudy_room/wiki/Linear-regression_code%EB%B6%84%EC%84%9D)
+
+* [MNIST](https://github.com/jaehyeopchoi/my_strudy_room/wiki/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%98-%EA%B1%B8%EC%9D%8C%EB%A7%88-MNIST)
+
 * [CNN](https://github.com/jaehyeopchoi/my_strudy_room/wiki/CNN)
