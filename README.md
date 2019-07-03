@@ -20,7 +20,7 @@
 
   * [Dog Breed Classification](https://github.com/jaehyeopchoi/my_study_room/wiki/Standford-Dog-Breed-Classification)
   * [2018 Data Science Bowl(using U-net)](https://github.com/jaehyeopchoi/my_study_room/wiki/U-net(2018-Data-Science-Bowl))
-
+  * [Medical Segmentation Decathlon](https://github.com/jaehyeopchoi/my_study_room/wiki/Medical-Segmentation-Decathlon)
 
 ***
 
